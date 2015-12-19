@@ -1,5 +1,5 @@
 cask :v1 => 'xld' do
-  version '20151128'
+  version '20151214'
   sha256 '75571c82a3d3b5f943cbf72774cb52e724fcca64bb63b251ee57d675435c6949'
 
   # sourceforge.net is the official download host per the vendor homepage
